@@ -13,6 +13,7 @@ Thumbs.db
 !.env.example
 *.pem
 *.key
+.ssh/
 
 # Node / JS / TS
 node_modules/
